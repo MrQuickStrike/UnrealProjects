@@ -632,3 +632,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.13-19.29.03:526][ 42]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.13-19.29.03:526][ 42]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.01.13-19.29.03:526][ 42]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.29.46:609][863]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.13-19.29.46:624][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-19.29.46:624][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.13-19.29.46:624][863]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 13, 2020, 3:29:46 AM)
+[2020.01.13-19.29.46:625][863]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.13-19.29.46:626][863]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.13-19.29.46:626][863]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-19.29.46:649][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023429s)
+[2020.01.13-19.29.46:650][863]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.13-19.29.46:650][863]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2020.01.13-19.29.46:651][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024642s)
+[2020.01.13-19.29.46:677][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.13-19.29.46:678][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.13-19.29.46:678][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.13-19.29.46:679][863]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.13-19.29.46:679][863]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Is Default: Yes
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: Channel Order:
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.13-19.29.46:681][863]LogAudioMixer: Display: 1: FrontRight
+[2020.01.13-19.29.46:718][863]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.01.13-19.29.46:719][863]LogInit: FAudioDevice initialized.
+[2020.01.13-19.29.46:731][863]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.13-19.29.46:736][863]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.13-11.29.46
+[2020.01.13-19.29.46:736][863]LogWorld: Bringing up level for play took: 0.003312
+[2020.01.13-19.29.46:736][863]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.01.13-19.29.46:737][863]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.13-19.29.46:739][863]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.13-19.29.46:740][863]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.073
+[2020.01.13-19.29.46:740][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-19.30.51:233][729]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.13-19.30.51:233][729]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.13-19.30.51:233][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-19.30.51:233][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-19.30.51:233][729]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.13-19.30.51:234][729]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.13-19.30.51:234][729]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.13-19.30.51:235][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.13-19.30.51:243][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.13-19.30.51:243][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.13-19.30.51:246][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.13-19.30.51:270][729]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.13-19.30.51:274][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.13-19.30.51:277][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.01.13-19.30.51:348][733]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.01.13-19.30.59:088][197]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2020.01.13-19.31.05:387][573]Cmd: TRANSACTION UNDO
+[2020.01.13-19.31.05:387][573]LogEditorTransaction: Undo Move Actors
+[2020.01.13-19.31.14:936][127]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight16)
+[2020.01.13-19.31.29:414][880]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2020.01.13-19.31.30:553][947]Cmd: DELETE
+[2020.01.13-19.31.30:553][947]Cmd: ACTOR DELETE
+[2020.01.13-19.31.30:557][947]LogEditorActor: Deleted Actor: PointLight
+[2020.01.13-19.31.30:586][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.13-19.31.30:586][947]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.01.13-19.31.32:521][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.13-19.31.32:692][ 60]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap450ED50C4E80D187A00BCE860F6BC255.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.31.32:809][ 60]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltDataFC82D8D14766790EF2468899028F3AF7.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.31.32:823][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.31.32:823][ 60]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.31.32:823][ 60]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.31.40:975][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.01.13-19.31.41:139][527]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap32DB5A4546848B21A440EB94668D60EF.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.31.41:250][527]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltDataCB908DA64450D028E703A0977B5BCA93.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.31.41:262][527]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.31.41:262][527]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.31.41:262][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.32.08:724][423]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.01.13-19.32.09:112][423]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.13-19.32.09:909][423]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.13-19.32.10:069][424]LogSlate: Took 0.004585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.13-19.32.46:946][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.01.13-19.32.47:180][271]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMapC6B469C649E66D3E4AD18398AE52CE85.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.32.47:209][271]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.298
+[2020.01.13-19.32.47:220][271]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.01.13-19.32.47:220][271]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.32.50:811][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.01.13-19.32.51:043][474]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap11D5F1F649828EBB0B0DE0BE15AF6D86.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.32.51:151][474]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltData22A090FE4E3EBA84B5CA93884E33712C.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.32.51:170][474]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.32.51:170][474]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.32.51:170][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.32.51:725][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.01.13-19.32.51:959][503]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap901D8BA64BA909FF5003DF9894FCA3A6.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.32.52:073][503]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltData128FAAB0414F7D0AF0F020BE3DB66A51.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.32.52:091][503]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.32.52:092][503]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.32.52:092][503]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.33.33:513][509]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.33.33:513][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.13-19.33.56:672][819]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.33.56:672][819]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Clocky/Clocky.Clocky
+[2020.01.13-19.35.32:973][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Clocky/Clocky" FILE="../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/Clocky/Clocky.uasset" SILENT=true
+[2020.01.13-19.35.33:007][406]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/Clocky3563E133461D196526A6798541FE4A4F.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/Clocky/Clocky.uasset'
+[2020.01.13-19.35.33:025][406]AssetCheck: New page: Asset Save: Clocky
+[2020.01.13-19.35.33:025][406]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Clocky/Clocky.Clocky
+[2020.01.13-19.35.33:673][444]BlueprintLog: New page: Compile Clocky
+[2020.01.13-19.35.33:920][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.13-19.35.34:801][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Clocky/Clocky" FILE="../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/Clocky/Clocky.uasset" SILENT=true
+[2020.01.13-19.35.34:827][490]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/Clocky7EBC031A4C2623C373462FB0972D7A04.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/Clocky/Clocky.uasset'
+[2020.01.13-19.35.34:839][490]AssetCheck: New page: Asset Save: Clocky
+[2020.01.13-19.35.34:839][490]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Clocky/Clocky.Clocky
+[2020.01.13-19.35.36:974][611]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.01.13-19.35.37:192][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.13-19.35.37:538][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.13-19.35.37:786][626]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap4E919DEB4EB49F11CFAC8AA47D9C4864.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.35.37:815][626]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.321
+[2020.01.13-19.35.37:828][626]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.01.13-19.35.37:828][626]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.35.42:667][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.13-19.35.42:909][906]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMapA23CBE1B42BC98F03D48DD84EE42AA27.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.35.43:033][906]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltData713F8D6741FF43D78A8A109937EB6CD4.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.35.43:050][906]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.35.43:050][906]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.35.43:051][906]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.35.53:559][505]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.35.53:559][505]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TPGameHud/HudThingy.HudThingy
+[2020.01.13-19.36.21:775][993]BlueprintLog: New page: Compile HudThingy
+[2020.01.13-19.36.21:999][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.01.13-19.36.22:539][ 16]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/HudThingy9AE6A10F4FF8F6E4525CD9B9CB719509.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/TPGameHud/HudThingy.uasset'
+[2020.01.13-19.36.22:555][ 16]AssetCheck: New page: Asset Save: HudThingy
+[2020.01.13-19.36.22:555][ 16]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TPGameHud/HudThingy.HudThingy
+[2020.01.13-19.36.23:405][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.01.13-19.36.23:640][ 61]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMapFB95A3014BF8ACA8B3AE30A2C316EA6B.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.36.23:748][ 61]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltDataBCCB60844596D958C6054F8C8F545FB8.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.36.23:765][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.36.23:765][ 61]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.36.23:765][ 61]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.13-19.36.31:480][491]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.36.31:480][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TheThingyMacGuffin/TheThingyMacGuffin.TheThingyMacGuffin
+[2020.01.13-19.36.47:197][373]BlueprintLog: New page: Compile TheThingyMacGuffin
+[2020.01.13-19.36.47:431][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.13-19.36.47:783][385]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/TheThingyMacGuffin117172B34B0835FACF755F82C474D536.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/Blueprints/TheThingyMacGuffin/TheThingyMacGuffin.uasset'
+[2020.01.13-19.36.47:799][385]AssetCheck: New page: Asset Save: TheThingyMacGuffin
+[2020.01.13-19.36.47:799][385]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TheThingyMacGuffin/TheThingyMacGuffin.TheThingyMacGuffin
+[2020.01.13-19.36.57:664][939]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.36.57:665][939]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.01.13-19.37.13:863][856]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.13-19.37.13:863][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.13-19.37.22:099][299]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.13-19.37.22:100][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2020.01.13-19.37.27:576][581]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.13-19.37.27:576][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.13-19.37.29:994][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.13-19.37.30:240][708]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap80083FB24C4029A4A42883BE487F1613.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.13-19.37.30:352][708]LogSavePackage: Moving '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Saved/ThirdPersonExampleMap_BuiltData2573C69B42675AD9576D078CE723FA59.tmp' to '../../../../../../Users/geyoz/Documents/GitHub/UnrealProjects/ShittyGame1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.13-19.37.30:370][708]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.13-19.37.30:370][708]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.13-19.37.30:370][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
